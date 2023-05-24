@@ -12,7 +12,7 @@ Install packages
 
 
 ```
-pip install python-magic-bin loguru openai dotenv langchain unstructured
+pip install python-magic-bin loguru openai python-dotenv langchain unstructured
 ```
 
 Run application
